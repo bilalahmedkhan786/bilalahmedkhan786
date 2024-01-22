@@ -1,73 +1,28 @@
-# Hey Everyone! 👋 I'm Bilal Ahmed Khan.
-
-Passionate Software Engineer | Full Stack Developer | Flutter Enthusiast | Open Source Advocate | Always Coding, Always Learning 🚀💻👨‍💻
+<h1 align="center">Hi 👋, I'm Bilal Ahmed Khan</h1>
+<h3 align="center">Passionate Software Engineer | Full Stack Developer | Flutter Enthusiast | Open Source Advocate | Always Coding, Always Learning 🚀💻👨‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-## Connect with me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalahmedkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="bilalahmedkhan786" /> </p>
 
-<div id="badges">
-  <a href="https://github.com/bilalahmedkhan786">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <!-- <a href="https://www.youtube.com/@TheFlutterGames">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
-<a href="https://www.linkedin.com/in/bilal-ahmed-khan-71a766291/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-<!-- <a href="https://www.instagram.com/fahad_farooq12/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a> -->
-<!-- <a href="https://www.facebook.com/profile.php?id=100045367780324">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</a> -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<br />
+- 🔭 I’m currently working on **JTechsight**
 
-## Languages and Tools:
+- 🌱 I’m currently learning **Flutter**
 
-<div>
+- 📫 How to reach me **bilalahmedkhan710@gmail.com**
 
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
-  </a>
-  
-  <a href="https://flutter.dev/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter">
-  </a>
-  
-  <a href="https://dart.dev/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript">
-  </a>
-  
-  <a href="https://developer.android.com/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/android-os.png" alt="Android">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS">
-  </a>
-  
-  <a href="https://www.php.net/" target="_blank">
-    <img height="45" src="https://img.icons8.com/color/50/000000/php.png" alt="PHP">
-  </a>
-  
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bilal-ahmed-khan-71a766291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-ahmed-khan-71a766291" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalahmedkhan786&show_icons=true&locale=en&layout=compact" alt="bilalahmedkhan786" /></p>
 
-<!-- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fahadfarooq40&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadfarooq40&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahadfarooq40) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalahmedkhan786&show_icons=true&locale=en" alt="bilalahmedkhan786" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalahmedkhan786&" alt="bilalahmedkhan786" /></p>
