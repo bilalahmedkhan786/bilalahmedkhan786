@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmed Khan</h1>
 <h3 align="center">Passionate Software Engineer | Full Stack Developer | Flutter Enthusiast | Open Source Advocate | Always Coding, Always Learning 🚀💻👨‍💻</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="616" height="616">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalahmedkhan786&label=Profile%20views&color=0e75b6&style=flat" alt="bilalahmedkhan786" /> </p>
 
